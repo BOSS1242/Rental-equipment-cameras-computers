@@ -42,7 +42,7 @@
             <button type="submit" name="signin" class="btn btn-primary">Sign In</button>
         </form>
         <hr>
-        <p>ยังไม่เป็นสมาชิกใช่ไหม คลิ๊กที่นี่เพื่อ <a href="index.php">สมัครสมาชิก</a></p>
+        <p>ยังไม่เป็นสมาชิกใช่ไหม คลิ๊กที่นี่เพื่อ <a href="register.pnp">สมัครสมาชิก</a></p>
     </div>
     
 </body>
